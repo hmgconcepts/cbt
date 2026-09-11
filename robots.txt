@@ -5,5 +5,5 @@ Allow: /
 Disallow: /*?access_token=
 Disallow: /*?refresh_token=
 
-Sitemap: https://hmgacademyhub.github.io/cbtplatform/sitemap.xml
-Host: https://hmgacademyhub.github.io
+Sitemap: https://hmgcbtsystem.vercel.app/sitemap.xml
+Host: https://hmgcbtsystem.vercel.app
